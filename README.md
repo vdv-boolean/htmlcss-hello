@@ -20,5 +20,5 @@ Well... Only me!
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [Colourful version](Coming soon...)
+Colourful version:
+* [html-css-hello](https://github.com/vincenzodivita/html-css-hello)
