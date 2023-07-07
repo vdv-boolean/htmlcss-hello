@@ -18,7 +18,7 @@ Really?
 
 Well... Only me!
 
-## Acknowledgments
+## Other
 
 Colourful version:
 * [html-css-hello](https://github.com/vincenzodivita/html-css-hello)
